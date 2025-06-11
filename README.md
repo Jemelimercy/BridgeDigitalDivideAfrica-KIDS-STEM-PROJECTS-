@@ -15,6 +15,12 @@ To empower the next generation of African innovators by equipping them with prac
 - `arduino/` – Electronics and sensor-based projects using Arduino
 - `curriculum/` – Suggested teaching plans, assessments, and weekly breakdowns
 
+- ## 🧰 Hardware Requirements
+- Alpha Board (with onboard sensors)
+- USB cable for uploading code
+- Arduino IDE or compatible programming environment
+
+
 ## 💡 Contribution
 Educators and developers are welcome to contribute to this open repository and help us reach more children across the continent!
 
